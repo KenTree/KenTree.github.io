@@ -4,7 +4,7 @@ This is my home page! My name is Kenneth Ly and I am a student at [Cal State Ful
 
 ## Computer Science Projects
 
-My GitHub page is [http://github.com/KenTree].
+My GitHub page is [http://github.com/KenTree](http://github.com/KenTree).
 
 ### CPSC 120
 
