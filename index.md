@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Kenneth Ly and I am a student at [Cal State Fullerton](https://www.fullerton.edu/) and my major is is Computer Science. 
+This is my home page! My name is Kenneth Ly and I am a student at [Cal State Fullerton](https://www.fullerton.edu/) and my major is Computer Science. 
 
 ## Computer Science Projects
 
